@@ -1,0 +1,21 @@
+.container {
+    height: 480px;
+    width: 480px;
+    display: flex;
+    flex-wrap: wrap;
+    border: black solid;
+}
+
+.input {
+    height: 30px;
+    width: 30px;
+}
+
+.hover {
+    background-color: grey;
+}
+
+/* For additional random RGB colors - NOT YET IMPLEMENTED! */
+.hover2 {
+    background-color: yellow;
+}
